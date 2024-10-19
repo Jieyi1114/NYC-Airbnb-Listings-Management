@@ -1,3 +1,5 @@
+This project is completed with Winnie Cai and Sonia Park.
+
 **--- Description for each directory**
 
 "Database_creation" directory contains two files: 
