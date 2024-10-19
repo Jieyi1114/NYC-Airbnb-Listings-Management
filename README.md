@@ -4,7 +4,8 @@ This project is completed with Winnie Cai and Sonia Park.
 
 "Database_creation" directory contains two files: 
 
-  -"dsci551_project_mysql_setup.py" is a Python script for database creation;\\
+  -"dsci551_project_mysql_setup.py" is a Python script for database creation;
+  
   -"airbnb_ds_clean.csv" is the cleaned dataset for the orignial records insertion.
 
 "main.py" and "pages" directory are for streamlit deployment.
